@@ -13,4 +13,4 @@
 - Responde perguntas;
 
 ## Link do app
-[Coloque aqui o link gerado pelo Streamlit Cloud]
+[Link para a aplicação em funcionamento](https://assistentellm-c4ryuvobkuh2bhekspb3xu.streamlit.app)
