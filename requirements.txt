@@ -1,0 +1,9 @@
+numpy==1.26.4
+torch
+sentence-transformers
+streamlit
+faiss-cpu==1.10.0
+langchain
+langchain
+langchain-community
+pypdf
